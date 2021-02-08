@@ -1,6 +1,6 @@
-## Hi there 👋 
+## Hi there 👋 I'm Nick and welcome to my Github!
 
-I'm Nick, I'm a Junior Web Developer currently open to opportunities. I live in Tamworth, Staffordshire but an open to relocation in South West England.
+I'm a Junior Web Developer currently open to opportunities. I live in Tamworth, Staffordshire but an open to relocation in South West England.
 
 I have a passion for tech, solving problems and being creative. I'm committed, eager to learn, and have a good balance of personality and professionalism. As an approachable and team oriented developer, I’m looking forward to joining and contributing to a progressive and innovative team.
 
