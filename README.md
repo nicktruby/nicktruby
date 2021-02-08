@@ -11,7 +11,7 @@ I have a passion for tech, solving problems and being creative. I'm committed, e
 * [LinkedIn](https://linkedin.com/in/nicktruby)
 * [Email](mailto:nick@truby.io)
 ---
-## Experience
+## Experience 💻
 
 #### Front End
 React | Angular | TypeScript | JavaScript (ES6) | SASS / CSS | HTML 5 | Bootstrap
