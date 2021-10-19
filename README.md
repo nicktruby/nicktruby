@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Nick and welcome to my Github!
 
-I'm a Junior Web Developer currently open to opportunities. I live in Tamworth, Staffordshire but an open to relocation in South West England.
-
-I have a passion for tech, solving problems and being creative. I'm committed, eager to learn, and have a good balance of personality and professionalism. As an approachable and team oriented developer, I’m looking forward to joining and contributing to a progressive and innovative team.
+I'm a Junior Frontend Developer currently working at BT, using React on Next.js in Typescript.
 
 ### Useful Links  🔗
 
@@ -13,7 +11,7 @@ I have a passion for tech, solving problems and being creative. I'm committed, e
 ### Experience  💻
 
 ###### Front End
-React | Angular | TypeScript | JavaScript (ES6) | SASS / CSS | HTML 5 | Bootstrap
+React | Next.Js | TypeScript | JavaScript (ES6) | Angular | SASS / CSS | HTML 5 | Bootstrap
 
 ###### Back End
 Firebase (Auth, Database, Hosting) | Mongo DB | Node.JS | Express
