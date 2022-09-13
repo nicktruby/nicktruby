@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nick and welcome to my Github!
 
-I'm a Junior Frontend Developer currently working at BT, using React on Next.js in Typescript.
+I'm a Frontend Developer currently working at BT, using React on Next.js in Typescript.
 
 ### Useful Links  🔗
 
