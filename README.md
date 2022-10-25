@@ -6,7 +6,7 @@ I'm a Frontend Developer currently working at BT, using React on Next.js in Type
 
 * [Portfolio](https://truby.io)
 * [LinkedIn](https://linkedin.com/in/nicktruby)
-* [Email](mailto:nick@truby.io)
+* [Email](mailto:truby@me.com)
 
 ### Experience  💻
 
